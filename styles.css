@@ -1,0 +1,37 @@
+div{
+    border: 20px;
+    color: rgb(9, 17, 15);
+    font-size: 25px;
+}
+body{
+    background-color:grey;
+    color: aliceblue;
+    background-image: url(form_bg.png);
+    background-size: 100%;
+
+
+}
+form{
+    height: 5000px;
+    width: 1000px;
+
+
+}
+label{
+    color: rgb(0, 0, 0);
+    align-items: center;
+    font-size: 35px;
+
+}
+input{
+    align-items: center;
+    height: 40px;
+    width: 250px;
+    font: 25px;
+    border-radius: 9px;
+
+}
+label:hover{
+    background-color: black;
+    color: greenyellow;
+}
